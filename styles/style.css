@@ -1,0 +1,120 @@
+.header{
+     background-image: url('../assets/Hero-bg.png');}
+     
+.content{ text-align: center; 
+
+}
+img{ 
+
+     display: block;
+      margin: 0 auto;
+      width: 20%; 
+     
+ }
+.banner{
+     background-color: #000072,#FFFFFF,#0D1321;
+}
+.heading{
+     color: #0D1321;
+     font-size: 48;
+     text-align: center;
+}
+.btn{
+     background-color: #0D1321;
+     color: #FFFFFF;
+     width: 130px;
+     height: 40px;
+     border-radius: 5px;
+     margin-bottom: 20px; */
+}
+
+ .texts{
+     text-align: center;
+}
+/* reason design */
+.reason-section{
+     margin:80px; 
+         text-align: center;    
+}
+.one{
+      width: 400px; 
+     height: 140px;
+}
+.reasons{
+      padding: 50px;
+       
+}
+.reason{
+     display:inline-block;
+     
+}
+.imgs{
+     width: 250px;
+     height: 160px;
+}
+/* inspiration */
+
+/* target css */
+.trgt-container{
+     display: flex;
+     gap: 24px;
+}
+.targets{
+     text-align: center; 
+      padding: 130px 150px;
+}
+.target{
+     width: 250px;
+     height: 150px;
+     padding: 50px;
+    margin-top: 50px;
+     border-radius: 10px;
+  
+}
+.html{
+     background-color:rgba(255, 76, 30, 0.06);
+}
+.css{
+background-color: rgba(0, 76, 232, 0.05);
+}
+.js{ 
+       background-color: rgba(255, 223, 0, 0.05);
+}
+li{ list-style: none;
+     color: rgba(13, 19, 33, 1);
+text-align: left; } 
+ .support{
+     height: 209px;
+     background-image:url('../assets/handshake.jpg');
+     background-size: cover;
+     background-position: center;
+     border-radius: 15px;
+     padding: 64px;
+    
+}
+
+.supports{ 
+      text-align: center; 
+      
+ }
+
+.cmnt{
+     width: 400px;
+     border: none;
+     padding: 14px;
+     border-radius: 5px;
+     margin: 0px;}
+.sub{
+      padding: 8px; 
+     width: 100px;
+     height: 40px;
+     border-radius: 5px;
+     border: none;
+      margin: 0px; 
+}
+.icon{
+    display: inline;
+}
+.small{
+     width: 120px;
+}
