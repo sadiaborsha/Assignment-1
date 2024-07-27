@@ -1,7 +1,15 @@
+
+.azeret-mono-normal {
+     font-family: "Azeret Mono", monospace;
+     font-optical-sizing: auto;
+     font-weight:10px;
+     font-style: normal;
+   }
 .header{
      background-image: url('../assets/Hero-bg.png');}
      
 .content{ text-align: center; 
+     margin: 80px;
 
 }
 img{ 
@@ -13,6 +21,7 @@ img{
  }
 .banner{
      background-color: #000072,#FFFFFF,#0D1321;
+     
 }
 .heading{
      color: #0D1321;
@@ -30,6 +39,7 @@ img{
 
  .texts{
      text-align: center;
+     color: rgba(13, 19, 33, 1);
 }
 /* reason design */
 .reason-section{
@@ -53,7 +63,9 @@ img{
      height: 160px;
 }
 /* inspiration */
-
+#vedio{
+     margin-top: 40px;
+}
 /* target css */
 .trgt-container{
      display: flex;
@@ -61,11 +73,12 @@ img{
 }
 .targets{
      text-align: center; 
-      padding: 130px 150px;
+      /* padding: 100px; */
+      margin: 100px;
 }
 .target{
      width: 250px;
-     height: 150px;
+     height: 180px;
      padding: 50px;
     margin-top: 50px;
      border-radius: 10px;
@@ -95,9 +108,12 @@ text-align: left; }
 
 .supports{ 
       text-align: center; 
+      margin: 80px;
       
  }
-
+.white{
+     color: rgba(255, 255, 255, 1);
+}
 .cmnt{
      width: 400px;
      border: none;
