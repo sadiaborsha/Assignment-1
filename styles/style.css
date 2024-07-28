@@ -130,9 +130,17 @@ li{ list-style: none;
      border: none;
       margin: 0px; 
 }
-.icon{
-    display: flex;
-    
-
+/* footer style */
+nav{
+     display:flex;
+     align-items: center;
+     justify-content: space-between;
+     padding: 20px;
+     margin:40px;
 }
-
+nav ul{
+     display: flex;
+}
+.icon{
+     width: 30px;
+}
