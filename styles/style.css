@@ -66,6 +66,7 @@ img{
 /* inspiration */
 #vedio{
      margin-top: 40px;
+     padding: 20px;
 }
 /* target css */
 .trgt-container{
@@ -74,7 +75,6 @@ img{
 }
 .targets{
      text-align: center; 
-      /* padding: 100px; */
       margin: 100px;
 }
 .target{
@@ -98,6 +98,7 @@ li{ list-style: none;
      color: rgba(13, 19, 33, 1);
  text-align:left;
  } 
+ /* support section css */
  .support{
      height: 209px;
      background-image:url('../assets/handshake.jpg');
