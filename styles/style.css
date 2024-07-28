@@ -5,6 +5,7 @@
      font-weight:10px;
      font-style: normal;
    }
+   /* banner css */
 .header{
      background-image: url('../assets/Hero-bg.png');}
      
@@ -34,7 +35,7 @@ img{
      width: 130px;
      height: 40px;
      border-radius: 5px;
-     margin-bottom: 20px; */
+     margin-bottom: 20px; 
 }
 
  .texts{
@@ -95,7 +96,8 @@ background-color: rgba(0, 76, 232, 0.05);
 }
 li{ list-style: none;
      color: rgba(13, 19, 33, 1);
-text-align: left; } 
+ text-align:left;
+ } 
  .support{
      height: 209px;
      background-image:url('../assets/handshake.jpg');
@@ -129,8 +131,8 @@ text-align: left; }
       margin: 0px; 
 }
 .icon{
-    display: inline;
+    display: flex;
+    
+
 }
-.small{
-     width: 120px;
-}
+
